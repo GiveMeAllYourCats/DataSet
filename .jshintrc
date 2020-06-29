@@ -1,0 +1,9 @@
+{
+"esversion": 8,
+"asi" : true,
+"undef": true,
+"node": true,
+"mocha": true,
+"jquery": true,
+"browser": true
+}
