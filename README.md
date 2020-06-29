@@ -82,7 +82,7 @@ await ds.dsv(',', './somedata.csv') // Loads the CSV to a DataSet with a , as de
 
 ### Contributing
 
-If you want to contribute check out the components and see what is missing or could use extra love and send me a pull request💖
+If you want to contribute check out the components files and see what is missing or what could use some extra love and send me a pull request on whatever you like💖
 
 ## License
 
